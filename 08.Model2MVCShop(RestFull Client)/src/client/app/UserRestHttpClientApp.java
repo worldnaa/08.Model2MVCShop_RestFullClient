@@ -46,7 +46,8 @@ public class UserRestHttpClientApp {
 		
 //		System.out.println("\n====================================\n");
 //		// 3.2 Http Post 방식 Request : CodeHaus lib 사용
-//		UserRestHttpClientApp.addUserTest_Codehaus();		
+//		UserRestHttpClientApp.addUserTest_Codehaus();	
+		
 	
 	}
 	
